@@ -10,6 +10,8 @@ export default {
         'pony-green': '#558b2f',
         'pony-dark': '#2d3436',
       },
+       fontFamily: {
+        'display': ['Luckiest Guy', 'cursive'],
     },
   },
   plugins: [],
