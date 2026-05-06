@@ -8,6 +8,7 @@ export default {
         'pony-pink': '#ad1457',
         'pony-orange': '#e65100',
         'pony-green': '#558b2f',
+        'pony-dark': '#2d3436',
       },
     },
   },
