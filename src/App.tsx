@@ -224,7 +224,7 @@ export default function App() {
             className="flex flex-col md:flex-row bg-white rounded-[25px] overflow-hidden shadow-lg mb-14 group"
           >
             <img 
-              src="https://static1.squarespace.com/static/67a9be76c0c9e05c986c398f/t/699b13147400373e8b6f44e2/1771770644983/80670006_164076948310708_5841460542547427328_n.jpg" 
+              src="https://lh3.googleusercontent.com/p/1qLBLzCn2v2fgL8GJb5troRjoJLTpeVDH" 
               alt="Paket 2" 
               className="w-full md:w-80 h-64 md:h-auto object-cover"
               referrerPolicy="no-referrer"
