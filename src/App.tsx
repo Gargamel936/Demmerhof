@@ -365,7 +365,7 @@ export default function App() {
           <div className="bg-white/70 backdrop-blur-sm p-8 md:p-12 rounded-[30px] shadow-sm">
             <ul className="space-y-6">
               {[
-                { label: "Gruppengröße", text: "Max. 8 Kinder. Bis zu 12 Kinder möglich (ab dem 9. Kind +10,00 € pro Kind). Wenn alle Kinder > 1,35m & > 35kg sind, Limit strikt bei 8 Kindern." },
+                { label: "Gruppengröße", text: "Preis gilt für 8 Kinder. Bis zu 12 Kinder möglich (ab dem 9. Kind +10,00 € pro Kind). Wenn alle Kinder über 1,35m & oder über 35kg wiegen liegt das Limit strikt bei 8 Kindern." },
                 { label: "Begleitpersonen", text: "Max. 3 Erwachsene. Die Aufsichtspflicht während der Gartenzeit obliegt euch." },
                 { label: "Ausrüstung mitbringen", text: "Reitkappe/Fahrradhelm und feste Schuhe (im Sommer gerne Wechselschuhe)." },
                 { label: "Verpflegung", text: "Kuchen/Essen kann mitgebracht werden. Der Tisch ist von uns dekoriert (inkl. Geschirr). Getränke können für 1,50 €/Kind dazugebucht werden." },
